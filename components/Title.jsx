@@ -7,6 +7,6 @@ const Title = ({title}) => {
 }
 
 const styles = StyleSheet.create({
-    text: {color:"grey", fontWeight:600, fontSize:24},
+    text: {color:"grey", fontWeight:700, fontSize:24},
 })
 export default Title;
