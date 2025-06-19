@@ -1,11 +1,11 @@
 import { View, StyleSheet } from "react-native";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
-import Logo from "../components/Logo";
-import Title from "../components/Title";
-import Input from "../components/TextInput";
-import ButtonGo from "../components/ButtonGo";
-import Redirect from "../components/Redirect";
-import TextArea from "../components/TextArea";
+import Logo from "../../components/Logo";
+import Title from "../../components/Title";
+import Input from "../../components/TextInput";
+import ButtonGo from "../../components/ButtonGo";
+import Redirect from "../../components/Redirect";
+import TextArea from "../../components/TextArea";
 import { useState } from "react";
 
 const signupScreen = () => {
